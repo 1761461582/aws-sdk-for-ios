@@ -8,7 +8,7 @@ Simply update the URL of the repository's origin:
 	First, change the URL of the origin:
 	$ git remote set-url origin git@github.com:aws/aws-sdk-ios.git
 
-	Next, verify is worked
+	Next, verify it worked
 	$ git remote -v
 
 	Lastly, move your local repository to the new name (without the "for")
