@@ -13,6 +13,9 @@ Simply update the URL of the repository's origin:
 
 	Verify it worked
 	$ git remote -v
+	
+	Pull the latest changes
+	$ git pull
 
 	Lastly, move your local repository to the new name (without the "for")
 	$ mv aws-sdk-for-ios aws-sdk-ios
